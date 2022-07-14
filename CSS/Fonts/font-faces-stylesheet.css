@@ -8,8 +8,8 @@
 
 @font-face {
     font-family: 'alien_hieroglyph';
-    src: url('fonts/alien_hieroglyph-webfont.woff2') format('woff2'),
-         url('fonts/alien_hieroglyph-webfont.woff') format('woff');
+    src: url('alien_hieroglyph-webfont.woff2') format('woff2'),
+         url('alien_hieroglyph-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 

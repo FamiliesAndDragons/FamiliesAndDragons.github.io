@@ -96,6 +96,10 @@ span.coming_soon {
     padding: 20px;
     font-family: sans-serif;
   }
+
+  .table_padded  {
+    padding: 12px 15px;
+  }
   
   .underline {
     text-decoration: underline;  
@@ -427,7 +431,6 @@ background-color: #ce72ea !important;
 
 .table td,
 .table th {
-  padding: 12px 15px;
   border: 1px solid #ddd;
   text-align: center;
   font-size: 16px;

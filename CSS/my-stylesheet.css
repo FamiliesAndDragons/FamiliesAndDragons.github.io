@@ -109,19 +109,19 @@ span.coming_soon {
   }
   
   .tr_group_one {
-    background-color: #e0e5c1;
+    background-color: #faf7ea;
   }
   
   .tr_group_two {
-    background-color: #faf7ea;
+    background-color: #e0e5c1;
   }
   
 
   .table tbody tr.normal {
-    background-color: #e0e5c1;
+    background-color: #faf7ea;
   }
   .table tbody tr.normal:nth-child(even) {
-    background-color: #faf7ea;
+    background-color: #e0e5c1;
   }
 
 
@@ -426,7 +426,7 @@ background-color: #ce72ea !important;
 }
 
 .table th {
-  background-color: #92c9e6;
+  background-color: #58180d;
   color: #ffffff;
 }
 

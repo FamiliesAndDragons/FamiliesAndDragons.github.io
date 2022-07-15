@@ -152,25 +152,18 @@ span.coming_soon {
     CUSTOM BACKGROUNDS
  ------------------  */
 
-.home_background1 {
+ .about_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
-  background: url(/images/home1.jpg);
+  background: url(#);
 }
 
-.time_background1 {
+ .characterdb-background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
-  background: url(/images/timeline1.jpg);
-}
-
-.languages_background1 {
-  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
-  background-size: cover;
-  background-position: center;
-  background: url(/images/languages1.jpg);
+  background: url(/images/character-db1.jpg);
 }
 
 .credits_background1 {
@@ -180,12 +173,29 @@ span.coming_soon {
   background: url(/images/credits1.jpg);
 }
 
-.characterdb-background1 {
+.home_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
-  background: url(/images/character-db1.jpg);
+  background: url(/images/home1.jpg);
 }
+
+.languages_background1 {
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  background-position: center;
+  background: url(/images/languages1.jpg);
+}
+
+.time_background1 {
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  background-position: center;
+  background: url(/images/timeline1.jpg);
+}
+
+
+
 
 
 

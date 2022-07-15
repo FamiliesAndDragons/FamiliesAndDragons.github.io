@@ -132,29 +132,30 @@ span.coming_soon {
 
 .home_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
-  background-size:cover;
+  background-size: cover;
   background-position: center;
-  background-image: url(#);
+  background: url(#);
 }
 
 .time_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
+  background-size: cover;
   background-position: center;
   background: url(/images/timeline1.jpg);
 }
 
 .languages_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
-  background-size:cover;
+  background-size: cover;
   background-position: center;
-  background-image: url(#);
+  background: url(#);
 }
 
 .credits_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
-  background-size:cover;
+  background-size: cover;
   background-position: center;
-  background-image: url(#);
+  background: url(#);
 }
 
 

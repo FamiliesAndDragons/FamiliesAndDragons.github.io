@@ -389,7 +389,10 @@ background-color: #ce72ea !important;
 
 
 
+ 
 
+
+ 
 
 /*  ------------------ 
    RESPONSIVE TABLE
@@ -420,8 +423,12 @@ background-color: #ce72ea !important;
   color: #ffffff;
 }
 
-.table tbody tr:nth-child(even) {
-  background-color: #d1e8f5;
+
+.table tbody tr.normal {
+  background-color: #e0e5c1;
+}
+.table tbody tr.normal:nth-child(even) {
+  background-color: #faf7ea;
 }
 
 /*responsive*/

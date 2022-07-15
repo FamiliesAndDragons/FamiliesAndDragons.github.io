@@ -317,7 +317,7 @@ display: table;
 .timeline > li:after {
 clear: both;
 }
-.timeline > li > .timeline-panel {
+.timeline > li > .timeline-panel-vertical {
 width: 46%;
 float: left;
 border: 1px solid #d4d4d4;
@@ -328,7 +328,7 @@ background-color: #eeeeee;
 -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
 box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
 }
-.timeline > li > .timeline-panel:before {
+.timeline > li > .timeline-panel-vertical-vertical:before {
 position: absolute;
 top: 26px;
 right: -15px;
@@ -339,7 +339,7 @@ border-right: 0 solid #ccc;
 border-bottom: 15px solid transparent;
 content: " ";
 }
-.timeline > li > .timeline-panel:after {
+.timeline > li > .timeline-panel-vertical-vertical:after {
 position: absolute;
 top: 27px;
 right: -14px;
@@ -368,16 +368,16 @@ border-top-left-radius: 50%;
 border-bottom-right-radius: 50%;
 border-bottom-left-radius: 50%;
 }
-.timeline > li.timeline-inverted > .timeline-panel {
+.timeline > li.timeline-inverted > .timeline-panel-vertical {
 float: right;
 }
-.timeline > li.timeline-inverted > .timeline-panel:before {
+.timeline > li.timeline-inverted > .timeline-panel-vertical:before {
 border-left-width: 0;
 border-right-width: 15px;
 left: -15px;
 right: auto;
 }
-.timeline > li.timeline-inverted > .timeline-panel:after {
+.timeline > li.timeline-inverted > .timeline-panel-vertical:after {
 border-left-width: 0;
 border-right-width: 14px;
 left: -14px;

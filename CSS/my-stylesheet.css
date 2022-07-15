@@ -109,11 +109,11 @@ span.coming_soon {
   }
   
   .tr_group_one {
-    background-color: #d1e8f5;
+    background-color: #e0e5c1;
   }
   
   .tr_group_two {
-    background-color: #d1e8f5;
+    background-color: #faf7ea;
   }
   
 
@@ -412,6 +412,7 @@ background-color: #ce72ea !important;
   text-align: center;
   font-size: 16px;
   vertical-align: middle;
+  margin: auto;
 }
 
 .table th {

@@ -137,6 +137,10 @@ span.coming_soon {
   }
 
 
+  td {
+    font-weight: 600;
+  }
+
 
   /*  ------------------ 
     CUSTOM BACKGROUNDS

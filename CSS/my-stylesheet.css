@@ -117,6 +117,13 @@ span.coming_soon {
   }
   
 
+  .table tbody tr.normal {
+    background-color: #e0e5c1;
+  }
+  .table tbody tr.normal:nth-child(even) {
+    background-color: #faf7ea;
+  }
+
 
 
   /*  ------------------ 
@@ -421,14 +428,6 @@ background-color: #ce72ea !important;
 .table th {
   background-color: #92c9e6;
   color: #ffffff;
-}
-
-
-.table tbody tr.normal {
-  background-color: #e0e5c1;
-}
-.table tbody tr.normal:nth-child(even) {
-  background-color: #faf7ea;
 }
 
 /*responsive*/

@@ -130,18 +130,19 @@ span.coming_soon {
     CUSTOM BACKGROUNDS
  ------------------  */
 
-.homepage_background1 {
+.home_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size:cover;
   background-position: center;
   background-image: url(#);
 }
 
-.timeline_page_background1 {
-  background-image: url(../images/timeline1.jpg);
+.time_background1 {
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
+  background-size:cover;
+  background-position: center;
+  background-image: url(images/timeline1.jpg);
 }
-
-
 
 .languages_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);

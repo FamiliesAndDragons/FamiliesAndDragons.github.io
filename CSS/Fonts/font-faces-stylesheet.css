@@ -247,58 +247,72 @@
 
 .draconic {
     font-family: 'dovahkiin';
+    font-weight: 400;
 }
 
 .undercommon {
     font-family: 'olde_espruar';
+    font-weight: 400;
 }
 
 .elvish {
     font-family: 'elvish';
+    font-weight: 400;
 }
 
 .sylvan {
     font-family: 'edronheem';
+    font-weight: 400;
 }
 
 .dwarvish {
     font-family: 'ninjargon';
+    font-weight: 400;
 }
 
 .gnomish {
     font-family: 'highschool_runes';
+    font-weight: 400;
 }
 
 .giant_text {
     font-family: 'kehdrai';
+    font-weight: 400;
 }
 
 .orcish {
     font-family: 'khuzdulerebor';
+    font-weight: 400;
 }
 
 .goblin {
     font-family: 'angerthas';
+    font-weight: 400;
 }
 
 .abyssal {
     font-family: 'pulsian';
+    font-weight: 400;
 }
 
 .infernal {
     font-family: 'mage_script';
+    font-weight: 400;
 }
 
 .primordial {
     font-family: 'alien_hieroglyph';
+    font-weight: 400;
 }
 
 .celestial {
     font-family: 'elbisch';
+    font-weight: 400;
 }
 
 .gith {
     font-family: 'lr_talisman';
+    font-weight: 400;
 }
 
 
@@ -314,22 +328,27 @@ SCRIPTS - RUNES & SIGILS
 
 .druidic {
     font-family: 'ophidian';
+    font-weight: 400;
 }
 
 .dunamis {
     font-family: 'hymmnos';
+    font-weight: 400;
 }
 
 .magi {
     font-family: 'harpers';
+    font-weight: 400;
 }
 
 .theives_cant {
     font-family: 'beth-luis-fearn';
+    font-weight: 400;
 }
 
 .undead {
     font-family: 'sigali';
+    font-weight: 400;
 }
 
 

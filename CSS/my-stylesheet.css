@@ -25,10 +25,11 @@ p {
      CUSTOM CSS
  ------------------  */
 
-
+  .th_searchable {
+    color:#292929;
+  }
 
  .search-input {
-  color:#292929;
   border: none;
   outline: none;
   font-family: "Fira Sans", sans-serif;

@@ -26,8 +26,7 @@ p {
 
 
 .activepage {
-  background: #bbacab;
-  color: #292929;
+  background: #686868;
 }
 
 span.coming_soon {
@@ -207,10 +206,10 @@ p {
 	font-size: 16px;
 }
 .navbar-inverse .navbar-nav li a:hover {
-	background: #363636;
+	background: #919191;
 }
 .navbar-inverse .navbar-nav .dropdown-menu li a:hover {
-	background: #363636;
+	background: #919191;
 }
 .dropdown-menu li a {
 	padding: 10px;

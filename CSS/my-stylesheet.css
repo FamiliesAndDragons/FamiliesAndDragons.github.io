@@ -24,6 +24,11 @@ p {
      CUSTOM CSS
  ------------------  */
 
+
+.active_page {
+  background: #d9534f;
+}
+
 span.coming_soon {
   font-size: smaller;
   font-style: italic;

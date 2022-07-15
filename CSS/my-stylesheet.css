@@ -25,16 +25,6 @@ p {
  ------------------  */
 
 
- h3.transparentbox {
-  padding-left:10px;
-  padding-right:10px;
- }
-
-h4.transparentbox {
-  padding-left:10px;
-  padding-right:10px;
- }
-
 
 .activepage {
   background: #686868;

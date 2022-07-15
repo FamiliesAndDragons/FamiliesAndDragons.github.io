@@ -27,6 +27,14 @@ p {
 
 
 
+ .search-input {
+  border: none;
+  outline: none;
+  font-family: "Fira Sans", sans-serif;
+}
+
+
+
 .activepage {
   background: #686868;
 }
@@ -150,7 +158,7 @@ span.coming_soon {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
-  background: url(#);
+  background: url(/images/languages1.jpg);
 }
 
 .credits_background1 {

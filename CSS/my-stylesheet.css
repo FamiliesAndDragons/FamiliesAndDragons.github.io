@@ -443,6 +443,8 @@ background-color: #ce72ea !important;
     padding-left: 50%;
     text-align: left;
     position: relative;
+    margin: auto;
+    vertical-align: middle;
   }
   .table td::before {
     content: attr(data-label);

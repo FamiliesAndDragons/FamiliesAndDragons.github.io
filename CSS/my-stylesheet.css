@@ -34,7 +34,6 @@ p {
   font-family: "Fira Sans", sans-serif;
 }
 
-
 .activepage {
   background: #686868;
 }
@@ -172,6 +171,12 @@ span.coming_soon {
   background: url(#);
 }
 
+.characterdb-background1 {
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  background-position: center;
+  background: url(#);
+}
 
 
 

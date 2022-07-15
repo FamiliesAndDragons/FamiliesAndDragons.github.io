@@ -81,17 +81,8 @@ span.coming_soon {
     background-position: center;
     background-image: url(https://wallpaperaccess.com/full/4114298.png);
   }
-  
-  .badge_color_key {
-    background-color: rgb(0,0,0,0.8);
-    width:70%; 
-    margin:auto; 
-    padding-top: 15px; 
-    padding-bottom: 15px;
-    border-radius: 35px;
-  }
-  
-  .badge_color_key2 {
+
+  .transparentbox2 {
     background-color: rgb(0,0,0,0.1);
     width:90%;
     margin:auto; 

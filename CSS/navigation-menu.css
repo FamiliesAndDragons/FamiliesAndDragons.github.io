@@ -6,17 +6,17 @@
 div nav ul {
   font-size:22px;
   font-family: 'Open Sans', sans-serif;
+  color: #f7f7f7;
 }
 
 
 nav {
-	margin: 50px 0;
 	background-color: #E64A19;
 }
 
 nav ul {
 	padding: 0;
-  margin: 0;
+    margin: 0;
 	list-style: none;
 	position: relative;
 	}
@@ -29,14 +29,14 @@ nav ul li {
 nav a {
 	display:block;
 	padding:0 10px;	
-	color:#FFF;
+	color:#f7f7f7;
 	font-size:20px;
 	line-height: 60px;
 	text-decoration:none;
 }
 
 nav a:hover { 
-	background-color: #000000; 
+	background-color: #919191; 
 }
 
 /* Hide Dropdowns by Default */

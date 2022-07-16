@@ -1,36 +1,17 @@
 /* CSS Document */
 
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
-@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
 
-div nav ul {
-  font-size:22px;
-  font-family: 'Bree Serif', sans-serif;
-  color: #f7f7f7;
-}
 
-div nav ul li a {
-    color: #f7f7f7;
-  }
-
-div nav a {
-    color: #f7f7f7;
-}
-
-div nav ul li ul li a {
-    color: #f7f7f7;
-}
-
-div nav ul li ul li ul li a{
-    color: #f7f7f7;
-}
 nav {
+	margin: 50px 0;
 	background-color: #2E2F31;
+    font-family: 'Open Sans', sans-serif;
 }
 
 nav ul {
 	padding: 0;
-    margin: 0;
+  margin: 0;
 	list-style: none;
 	position: relative;
 	}

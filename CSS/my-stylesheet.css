@@ -25,21 +25,6 @@ p {
  ------------------  */
 
 
- .table th.regular {
-  background-color: #6e1f11;
-  color: #ffffff;
-  }
-  .table th.searchable {
-    background-color: #6e1f11;
-    color: #292929;
-  }
-
- .search-input {
-  border: none;
-  outline: none;
-  font-family: "Fira Sans", sans-serif;
-}
-
 .activepage {
   background: #686868;
 }
@@ -69,11 +54,6 @@ div.transparentbox {
   border-radius: 35px;
 }
 
-
-span.coming_soon {
-    font-size: smaller;
-    font-style: italic;
-  }
 
 .jumbotron_background1 {
     box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
@@ -105,16 +85,6 @@ span.coming_soon {
     border-radius: 35px;
   }
   
-  .table_body_area {
-    margin: auto;
-    padding: 20px;
-    font-family: sans-serif;
-  }
-
-  .table_padded  {
-    padding: 12px 15px;
-  }
-  
   .underline {
     text-decoration: underline;  
   }
@@ -124,27 +94,6 @@ span.coming_soon {
    width:75%;
    text-align:center;
    padding-bottom: 10px;
-  }
-  
-  .tr_group_one {
-    background-color: #faf7ea;
-  }
-  
-  .tr_group_two {
-    background-color: #e0e5c1;
-  }
-
-  .table tbody tr.normal {
-    background-color: #faf7ea;
-  }
-
-  .table tbody tr.normal:nth-child(even) {
-    background-color: #e0e5c1;
-  }
-
-
-  td {
-    font-weight: 600;
   }
 
 
@@ -446,63 +395,3 @@ background-color: #ce72ea !important;
 
 
  
-
-/*  ------------------ 
-   RESPONSIVE TABLE
- ------------------  */
-
-
-* {
-  box-sizing: border-box;
-}
-
-.table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-.table td,
-.table th {
-  border: 1px solid #ddd;
-  text-align: center;
-  font-size: 16px;
-  vertical-align: middle;
-  margin: auto;
-}
-
-
-
-/*responsive*/
-
-@media (max-width: 500px) {
-  .table thead {
-    display: none;
-  }
-
-  .table,
-  .table tbody,
-  .table tr,
-  .table td {
-    display: block;
-    width: 100%;
-  }
-  .table tr {
-    margin-bottom: 15px;
-  }
-  .table td {
-    padding-left: 50%;
-    text-align: left;
-    position: relative;
-    
-  }
-  .table td::before {
-    content: attr(data-label);
-    position: absolute;
-    left: 0;
-    width: 50%;
-    padding-left: 15px;
-    font-size: 15px;
-    font-weight: bold;
-    text-align: left;
-  }
-}

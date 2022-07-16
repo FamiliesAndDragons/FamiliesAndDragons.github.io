@@ -5,13 +5,27 @@
 
 div nav ul {
   font-size:22px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bree Serif', sans-serif;
   color: #f7f7f7;
 }
 
+div nav ul li a {
+    color: #f7f7f7;
+  }
 
+div nav a {
+    color: #f7f7f7;
+}
+
+div nav ul li ul li a {
+    color: #f7f7f7;
+}
+
+div nav ul li ul li ul li a{
+    color: #f7f7f7;
+}
 nav {
-	background-color: #E64A19;
+	background-color: #2E2F31;
 }
 
 nav ul {
@@ -23,7 +37,7 @@ nav ul {
 	
 nav ul li {
 	display:inline-block;
-	background-color: #E64A19;
+	background-color: #2E2F31;
 	}
 
 nav a {

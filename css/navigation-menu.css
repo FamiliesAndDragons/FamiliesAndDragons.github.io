@@ -1,0 +1,53 @@
+/*  ------------------ 
+     CUSTOM CSS
+ ------------------  */
+
+span.coming_soon {
+  font-size: smaller;
+  font-style: italic;
+}
+
+.activepage {
+	background: #686868;
+  }
+  
+  /*  ------------------ 
+   NAVIGATION BAR & HEADER
+   ------------------  */
+  
+  .navbar {
+	  margin-bottom: 0;
+  }
+  .navbar-inverse {
+	  background: #2E2F31;
+	  border: 0;
+  }
+  .dropdown-menu {
+	  background: #2E2F31;
+	  border-radius: 0;
+	  border: 0;
+  }
+  .navbar-inverse .navbar-nav li a {
+	  color: #f7f7f7;
+	  font-size: 16px;
+  }
+  .navbar-inverse .navbar-nav li a:hover {
+	  background: #363636;
+  }
+  .navbar-inverse .navbar-nav .dropdown-menu li a:hover {
+	  background: #363636;
+  }
+  .dropdown-menu li a {
+	  padding: 10px;
+  }
+  .btn-primary {
+	  color: #fff;
+	  background-color: rgba(0, 0, 0, 0.5);
+	  border-color: white;
+	  margin-bottom: 5px;
+  }
+  .btn-primary:hover {
+	  color: white;
+	  background-color: #2E2F31;
+	  border-color: white;
+  }

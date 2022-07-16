@@ -1,21 +1,12 @@
-
-
+body {
+  background-image: url('https://wallpaperaccess.com/full/2796640.jpg');
+  background-attachment: fixed;
+}
 
 
 /*  ------------------ 
      CUSTOM CSS
  ------------------  */
-
-
-
-.activepage {
-  background: #686868;
-}
-
-span.coming_soon {
-  font-size: smaller;
-  font-style: italic;
-}
 
 .underline {
   text-decoration: underline;  
@@ -73,13 +64,6 @@ div.transparentbox {
     margin: auto;
     padding: 15px;
       }
-  
-  .header_box {
-   margin:auto; 
-   width:75%;
-   text-align:center;
-   padding-bottom: 10px;
-  }
   
 
 
@@ -149,9 +133,6 @@ h2 {
 p {
 	font-size: 16px;
 /* 	color: #cdcdcd; */
-}
- .navbar {
-	margin-bottom: 0;
 } 
 .jumbotron {
   width: 100%;

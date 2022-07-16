@@ -1,11 +1,12 @@
 
 
+
 var data = [
     [1, "jack",55],
     [2, "anna", 11]
 ];
 
-document.addEventListener("DOMContentLoaded", function(){
+    document.addEventListener("DOMContentLoaded",function(){
 
     var tbody = document.getElementById("table-body");
 
@@ -17,4 +18,9 @@ document.addEventListener("DOMContentLoaded", function(){
 
 
 
-});
+    });
+
+
+
+
+

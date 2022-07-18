@@ -121,38 +121,43 @@ span.coming_soon {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
-  background: url(/images/character-db1.jpg);
+  background: url(../images/backgrounds/character-db-hero-background.jpg);
 }
 
 .credits_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
-  background: url(/images/credits1.jpg);
+  background: url(../images/backgrounds/credits-hero-background.jpg);
 }
 
 .home_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
-  background: url(/images/home1.jpg);
+  background: url(../images/backgrounds/home-hero-background.jpg);
 }
 
 .languages_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
-  background: url(/images/languages1.jpg);
+  background: url(../images/backgrounds/languages-hero-background.jpg);
 }
 
 .time_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
-  background: url(/images/timeline1.jpg);
+  background: url(../images/backgrounds/timeline-hero-background.jpg);
 }
 
-
+.pantheons_background1 {
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  background-position: center;
+  background: url(../images/backgrounds/pantheons-hero-background.jpg);
+}
 
 
 

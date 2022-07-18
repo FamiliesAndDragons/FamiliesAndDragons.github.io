@@ -1,4 +1,5 @@
 
 # Ignore the ______ Folder and content
 /images/licenses/**
-/images/sources/**
+/images/originals/**
+/images/unused/**

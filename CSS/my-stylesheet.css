@@ -155,7 +155,7 @@ span.coming_soon {
 .pantheons_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
-  background-position: center;
+  background-position: bottom;
   background: url(../images/backgrounds/pantheons-hero-background.jpg);
 }
 

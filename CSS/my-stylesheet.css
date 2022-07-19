@@ -155,8 +155,36 @@ span.coming_soon {
 .pantheons_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
-  background-position: bottom;
+  background-position: center;
   background: url(../images/backgrounds/pantheons-hero-background.jpg);
+}
+
+.campaign_OS_background1 {
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  background-position: center;
+  background: url(../images/backgrounds/obsidian-spires-hero-background.jpg);
+}
+
+.campaign_GW_background1 {
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  background-position: center;
+  background: url(../images/backgrounds/godless-wars-hero-background.jpg);
+}
+
+.campaign_AGW_background1 {
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  background-position: center;
+  background: url(../images/backgrounds/after-the-great-war-hero-background.jpg);
+}
+
+.campaign_UtT_background1 {
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  background-position: center;
+  background: url(../images/backgrounds/under-the-tavern-hero-background.jpg);
 }
 
 

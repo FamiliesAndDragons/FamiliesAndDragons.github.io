@@ -5,7 +5,8 @@
  ------------------  */
 
  body {
-	background-image: url('https://wallpaperaccess.com/full/2796640.jpg');
+	/* background-image: url('https://wallpaperaccess.com/full/2796640.jpg'); */
+  background-image: url(../images/backgrounds/parchment-body.jpg);
   background-attachment: fixed;
 }
 

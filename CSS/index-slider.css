@@ -135,12 +135,13 @@
     color:#FFF;
     animation:fadeOutRight 1s both;
     margin:auto;
-    padding: 10px;;
+    padding: 10px;
   }
   
   .Modern-Slider .item h5{
     margin:auto;
-    padding: 10px;;
+    padding-left: 10px;
+    padding-right: 10px;
     /* font:15px/30px RalewayR; */
     color:#FFF;
     max-width:600px;

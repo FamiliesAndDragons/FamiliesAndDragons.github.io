@@ -134,13 +134,13 @@
     text-transform:uppercase;
     color:#FFF;
     animation:fadeOutRight 1s both;
-    margin:0;
-    padding:0;
+    margin:auto;
+    padding: 10px;;
   }
   
   .Modern-Slider .item h5{
-    margin:0;
-    padding:0;
+    margin:auto;
+    padding: 10px;;
     /* font:15px/30px RalewayR; */
     color:#FFF;
     max-width:600px;
@@ -148,6 +148,7 @@
     height:60px;
     animation:fadeOutLeft 1s both;
   }
+  
   
   .Modern-Slider .item.slick-active h3{
     animation:fadeInDown 1s both 1s;

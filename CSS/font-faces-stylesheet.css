@@ -281,8 +281,8 @@
 
 @font-face {
     font-family: 'green_nature';
-    src: url('green_nature-webfont.woff2') format('woff2'),
-         url('green_nature-webfont.woff') format('woff');
+    src: url('../fonts/green_nature-webfont.woff2') format('woff2'),
+         url('../fonts/green_nature-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 

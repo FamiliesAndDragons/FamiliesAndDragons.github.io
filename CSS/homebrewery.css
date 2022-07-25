@@ -4,16 +4,24 @@
  ------------------  */
 
 @font-face {
-    font-family: '';
-    src: url('../fonts/kitisakkullian-webfont.woff2') format('woff2'),
-         url('../fonts/kitisakkullian-webfont.woff') format('woff');
+    font-family: 'segoe-print';
+    src: url('../fonts/segoepr.woff2') format('woff2'),
+         url('../fonts/segoepr.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
 
 
- .abyssal {
+ .cantfindgeorge {
     font-family: 'Segoe Print';
-    font-weight: 400;
+    color: #40337B;
 }
+
+/*  ------------------ 
+
+Link to use in projects: https://gitcdn.link/cdn/FamiliesAndDragons/FamiliesAndDragons.github.io/main/CSS/homebrewery.css
+
+CDN by https://gitcdn.link/#dev
+
+ ------------------  */

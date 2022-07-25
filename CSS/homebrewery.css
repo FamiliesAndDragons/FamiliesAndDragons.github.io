@@ -1,0 +1,86 @@
+
+
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+	margin-top: 0px;
+  width: 100%;
+}
+
+
+
+ /* SOCIAL ICONS */
+
+
+.homebrew-iconbar {
+	position: absolute;
+	bottom:0px;
+	right:0px;
+	height:50%;
+}
+
+.homebrew-icon1 {
+	height: 5%;
+	position:absolute;
+	bottom: 20px;
+	right:20px;
+}
+
+.homebrew-icon2 {
+	height: 5%;
+	position:absolute;
+	bottom: 20px;
+	right:85px;
+}
+
+.homebrew-icon3 {
+	height: 5%;
+	position:absolute;
+	bottom: 20px;
+	right:150px;
+}
+
+.homebrew-icon4 {
+	height: 5%;
+	position:absolute;
+	bottom: 20px;
+	right:212px;
+}
+
+.homebrew-icon5 {
+	height: 5%;
+	position:absolute;
+	bottom: 20px;
+	right:278px;
+}
+
+.homebrew-icon6 {
+	height: 5%;
+	position:absolute;
+	bottom: 20px;
+	right:342px;
+}
+
+.homebrew-icon7 {
+	height: 5%;
+	position:absolute;
+	bottom: 20px;
+	right:406px;
+}
+
+.homebrew-icon8 {
+	height: 5%;
+	position:absolute;
+	bottom: 20px;
+	right:470px;
+}
+
+.homebrew-icon9 {
+	height: 5%;
+	position:absolute;
+	bottom: 20px;
+	right:534px;
+}

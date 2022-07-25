@@ -1,6 +1,30 @@
 
-# Ignore the ______ Folder and content
+
+
+##########################################
+#  Ignore the ______ Folder and content  #
+##########################################
+
 /images/licenses/**
 /images/originals/**
 /images/unused/**
+/images/homebrews/**
+
+
+
+#######################
+# Ignore target files #
+#######################
+
 old_index.html
+*.psd
+
+
+
+
+#####################
+#     EXCEPTIONS    #
+#####################
+
+! /images/homebrews/Language-Rework/**
+! /images/homebrews/Undead-Expansion/**

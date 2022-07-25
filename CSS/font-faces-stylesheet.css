@@ -280,7 +280,7 @@
 
 
 @font-face {
-    font-family: 'green_nature';
+    font-family: 'green_natureregular';
     src: url('../fonts/green_nature-webfont.woff2') format('woff2'),
          url('../fonts/green_nature-webfont.woff') format('woff');
     font-weight: normal;
@@ -356,8 +356,8 @@
     font-weight: 400;
 }
 
-.halfling {
-    font-family: 'green_nature';
+.halfling-text {
+    font-family: 'green_natureregular';
     font-weight: 400;
 }
 

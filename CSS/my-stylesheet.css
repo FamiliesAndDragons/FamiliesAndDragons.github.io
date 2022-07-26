@@ -21,6 +21,10 @@ p {
   font-family: '',sans-serif;
 }
 
+a.better-link {
+  text-decoration: underline;
+}
+
 
 /*  ------------------ 
      CUSTOM CSS

@@ -144,44 +144,44 @@
     background: url(../images/backgrounds/playlists-hero-background.jpg);
   }
   
-  .towns_background1 {
+  .towns_playlist_background1 {
     box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: url(../images/backgrounds/towns-hero-background.jpg);
+    background: url(../images/backgrounds/towns-playlist-hero-background.jpg);
   }
   
-  .chapter1_background1 {
+  .chapter1_playlist_background1 {
     box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: url(../images/backgrounds/chapter1-hero-background.jpg);
+    background: url(../images/backgrounds/chapter1-playlist-hero-background.jpg);
   }
   
-  .chapter2_background1 {
+  .chapter2_playlist_background1 {
     box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: url(../images/backgrounds/chapter2-hero-background.jpg);
+    background: url(../images/backgrounds/chapter2-playlist-hero-background.jpg);
   }
   
-  .chapter3_background1 {
+  .chapter3_playlist_background1 {
     box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: url(../images/backgrounds/chapter3-hero-background.jpg);
+    background: url(../images/backgrounds/chapter3-playlist-hero-background.jpg);
   }
   
-  .chapter4_background1 {
+  .chapter4_playlist_background1 {
     box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: url(../images/backgrounds/chapter4-hero-background.jpg);
+    background: url(../images/backgrounds/chapter4-playlist-hero-background.jpg);
   }
   
   

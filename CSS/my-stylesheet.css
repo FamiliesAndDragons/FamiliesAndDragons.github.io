@@ -162,6 +162,13 @@ div.transparentbox {
   background: url(../images/backgrounds/pantheons-hero-background.jpg);
 }
 
+
+
+/*                      */
+/* CAMPAIGN BACKGROUNDS */
+/*                      */
+
+
 .campaign_OS_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;

@@ -25,6 +25,11 @@ a.better-link {
   text-decoration: underline;
 }
 
+a.better-link:hover {
+  color: #ce7cf4;
+}
+
+
 
 /*  ------------------ 
      CUSTOM CSS
@@ -466,10 +471,6 @@ p {
 
 .timeline-badge.pink {
   background-color: #ea72b8 !important;
-}
-
-.timeline-badge.pink2 {
-  background-color: #d94f84 !important;
 }
 
 .timeline-badge.white {

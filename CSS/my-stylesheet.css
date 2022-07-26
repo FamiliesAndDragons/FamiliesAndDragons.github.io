@@ -30,6 +30,13 @@ a.better-link:hover {
   color: #ce7cf4;
 }
 
+.center-element {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+	margin-top: 0px;
+  width: 100%;
+}
 
 
 /*  ------------------ 

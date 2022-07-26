@@ -13,7 +13,7 @@
 h1,
 h2 {
 	font-weight: bold;
-  font-family: myFirstFont;
+  font-family: 'myFirstFont';
 }
 
 p {
@@ -23,10 +23,12 @@ p {
 
 a.better-link {
   text-decoration: underline;
+  font-weight: bold;
 }
 
 a.better-link:hover {
   color: #ce7cf4;
+  font-weight: normal;
 }
 
 

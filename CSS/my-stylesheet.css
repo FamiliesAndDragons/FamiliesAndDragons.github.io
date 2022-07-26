@@ -21,13 +21,13 @@ p {
   font-family: '',sans-serif;
 }
 
-a.better-link {
-  text-decoration: underline;
-  font-weight: bold;
+.underline {
+  text-decoration: underline;  
 }
 
-a.better-link:hover {
-  color: #ce7cf4;
+
+.italic {
+  font-style: italic;
 }
 
 .center-element {
@@ -49,6 +49,7 @@ a.better-link:hover {
 
 
 
+
 .activepage {
   background: #686868;
 }
@@ -58,21 +59,13 @@ span.coming_soon {
   font-style: italic;
 }
 
-.underline {
-  text-decoration: underline;  
+a.better-link {
+  text-decoration: underline;
+  font-weight: bold;
 }
 
-.header_box {
-  margin:auto; 
-  width:75%;
-  text-align:center;
-  padding-bottom: 10px;
-}
-
-
-span.coming_soon {
-  font-size: smaller;
-  font-style: italic;
+a.better-link:hover {
+  color: #ce7cf4;
 }
 
 .jumbotron_background1 {
@@ -115,23 +108,52 @@ div.transparentbox {
   border-radius: 35px;
 }
   
-.underline {
-  text-decoration: underline;  
-}
-  
 .header_box {
   margin:auto; 
   width:75%;
   text-align:center;
   padding-bottom: 10px;
 }
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 /*  ------------------ 
+    ------------------ 
   CUSTOM BACKGROUNDS
-------------------  */
+------------------
+------------------   */
+
+
+
+
+
+
+/*                      */
+/*   PAGE BACKGROUNDS   */
+/*                      */
+/*  Alphabetical Order  */
 
 .about_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
@@ -173,7 +195,7 @@ div.transparentbox {
   background: url(../images/backgrounds/languages-hero-background.jpg);
 }
 
-.time_background1 {
+.timeline_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
@@ -204,7 +226,7 @@ div.transparentbox {
 /*                      */
 /* CAMPAIGN BACKGROUNDS */
 /*                      */
-
+/* Chronological order  */
 
 .campaign_OS_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
@@ -245,6 +267,77 @@ div.transparentbox {
   background-repeat: no-repeat;
   background: url(../images/backgrounds/under-the-tavern-hero-background.jpg);
 }
+
+
+
+
+/*                      */
+/* PLAYLIST BACKGROUNDS */
+/*                      */
+/*    Custom  Order     */
+
+.playlists_background1 {
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background: url(../images/backgrounds/playlists-hero-background.jpg);
+}
+
+.towns_background1 {
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background: url(../images/backgrounds/towns-hero-background.jpg);
+}
+
+.chapter1_background1 {
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background: url(../images/backgrounds/chapter1-hero-background.jpg);
+}
+
+.chapter2_background1 {
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background: url(../images/backgrounds/chapter2-hero-background.jpg);
+}
+
+.chapter3_background1 {
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background: url(../images/backgrounds/chapter3-hero-background.jpg);
+}
+
+.chapter4_background1 {
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background: url(../images/backgrounds/chapter4-hero-background.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

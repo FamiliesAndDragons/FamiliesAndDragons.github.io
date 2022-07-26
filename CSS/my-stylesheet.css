@@ -127,6 +127,7 @@ div.transparentbox {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   background: url(#);
 }
 
@@ -134,6 +135,7 @@ div.transparentbox {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   background: url(../images/backgrounds/character-db-hero-background.jpg);
 }
 
@@ -141,6 +143,7 @@ div.transparentbox {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   background: url(../images/backgrounds/credits-hero-background.jpg);
 }
 
@@ -148,6 +151,7 @@ div.transparentbox {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   background: url(../images/backgrounds/home-hero-background.jpg);
 }
 
@@ -155,6 +159,7 @@ div.transparentbox {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   background: url(../images/backgrounds/languages-hero-background.jpg);
 }
 
@@ -162,6 +167,7 @@ div.transparentbox {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   background: url(../images/backgrounds/timeline-hero-background.jpg);
 }
 
@@ -169,8 +175,19 @@ div.transparentbox {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   background: url(../images/backgrounds/pantheons-hero-background.jpg);
 }
+
+
+.Template_Page_background1 {
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background: url(../images/backgrounds/Template_Page-hero-background.jpg);
+}
+
 
 
 
@@ -183,6 +200,7 @@ div.transparentbox {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   background: url(../images/backgrounds/obsidian-spires-hero-background.jpg);
 }
 
@@ -190,6 +208,7 @@ div.transparentbox {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   background: url(../images/backgrounds/godless-wars-hero-background.jpg);
 }
 
@@ -197,6 +216,7 @@ div.transparentbox {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   background: url(../images/backgrounds/epoch-of-shadows-hero-background.jpg);
 }
 
@@ -204,6 +224,7 @@ div.transparentbox {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   background: url(../images/backgrounds/after-the-great-war-hero-background.jpg);
 }
 
@@ -211,6 +232,7 @@ div.transparentbox {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   background: url(../images/backgrounds/under-the-tavern-hero-background.jpg);
 }
 

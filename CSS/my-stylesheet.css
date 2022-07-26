@@ -37,6 +37,10 @@ a.better-link:hover {
 	margin-top: 0px;
 }
 
+.blend-multiply {
+  mix-blend-mode:multiply;
+}
+
 
 /*  ------------------ 
      CUSTOM CSS

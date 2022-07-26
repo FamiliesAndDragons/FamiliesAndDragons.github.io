@@ -8,6 +8,7 @@
 /images/licenses/**
 /images/originals/**
 /images/unused/**
+/images/playlists/originals/**
 
 #######################
 # Ignore target files #

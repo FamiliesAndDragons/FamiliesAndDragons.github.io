@@ -461,6 +461,10 @@ p {
 }
 
 .timeline-badge.pink {
+  background-color: #ea72b8 !important;
+}
+
+.timeline-badge.pink2 {
   background-color: #d94f84 !important;
 }
 

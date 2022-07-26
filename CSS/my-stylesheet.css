@@ -128,7 +128,6 @@ div.transparentbox {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background: url(#);
 }
 
@@ -183,7 +182,6 @@ div.transparentbox {
 
 .Template_Page_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
-  background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background: url(../images/backgrounds/Template_Page-hero-background.jpg);

@@ -28,7 +28,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: url(../images/backgrounds/character-db-hero-background.jpg);
+    background: url(/images/backgrounds/character-db-hero-background.jpg);
   }
   
   .credits_background1 {
@@ -36,7 +36,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: url(../images/backgrounds/credits-hero-background.jpg);
+    background: url(/images/backgrounds/credits-hero-background.jpg);
   }
   
   .home_background1 {
@@ -44,7 +44,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: url(../images/backgrounds/home-hero-background.jpg);
+    background: url(/images/backgrounds/home-hero-background.jpg);
   }
   
   .languages_background1 {
@@ -52,7 +52,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: url(../images/backgrounds/languages-hero-background.jpg);
+    background: url(/images/backgrounds/languages-hero-background.jpg);
   }
   
   .timeline_background1 {
@@ -60,7 +60,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: url(../images/backgrounds/timeline-hero-background.jpg);
+    background: url(/images/backgrounds/timeline-hero-background.jpg);
   }
   
   .pantheons_background1 {
@@ -68,7 +68,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: url(../images/backgrounds/pantheons-hero-background.jpg);
+    background: url(/images/backgrounds/pantheons-hero-background.jpg);
   }
   
   
@@ -77,7 +77,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: url(../images/backgrounds/Template_Page-hero-background.jpg);
+    background: url(/images/backgrounds/Template_Page-hero-background.jpg);
   }
   
   
@@ -93,7 +93,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: url(../images/backgrounds/obsidian-spires-hero-background.jpg);
+    background: url(/images/backgrounds/obsidian-spires-hero-background.jpg);
   }
   
   .campaign_GW_background1 {
@@ -101,7 +101,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: url(../images/backgrounds/godless-wars-hero-background.jpg);
+    background: url(/images/backgrounds/godless-wars-hero-background.jpg);
   }
   
   .campaign_EoS_background1 {
@@ -109,7 +109,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: url(../images/backgrounds/epoch-of-shadows-hero-background.jpg);
+    background: url(/images/backgrounds/epoch-of-shadows-hero-background.jpg);
   }
   
   .campaign_AGW_background1 {
@@ -117,7 +117,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: url(../images/backgrounds/after-the-great-war-hero-background.jpg);
+    background: url(/images/backgrounds/after-the-great-war-hero-background.jpg);
   }
   
   .campaign_UtT_background1 {
@@ -125,7 +125,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: url(../images/backgrounds/under-the-tavern-hero-background.jpg);
+    background: url(/images/backgrounds/under-the-tavern-hero-background.jpg);
   }
   
   
@@ -141,7 +141,7 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background: url(../images/backgrounds/playlists-hero-background.jpg);
+  background: url(/images/backgrounds/playlists-hero-background.jpg);
 }
   
 .towns_playlist_background1 {
@@ -149,7 +149,7 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background: url(../images/backgrounds/towns-playlist-hero-background.jpg);
+  background: url(/images/backgrounds/towns-playlist-hero-background.jpg);
 }
 
 .generic_playlist_background1 {
@@ -157,7 +157,7 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background: url(../images/backgrounds/generic-playlist-hero-background.jpg);
+  background: url(/images/backgrounds/generic-playlist-hero-background.jpg);
 }
 
 .chapter1_playlist_background1 {
@@ -165,7 +165,7 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background: url(../images/backgrounds/chapter1-playlist-hero-background.jpg);
+  background: url(/images/backgrounds/chapter1-playlist-hero-background.jpg);
 }
 
 .chapter2_playlist_background1 {
@@ -173,7 +173,7 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background: url(../images/backgrounds/chapter2-playlist-hero-background.jpg);
+  background: url(/images/backgrounds/chapter2-playlist-hero-background.jpg);
 }
 
 .chapter3_playlist_background1 {
@@ -181,7 +181,7 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background: url(../images/backgrounds/chapter3-playlist-hero-background.jpg);
+  background: url(/images/backgrounds/chapter3-playlist-hero-background.jpg);
 }
 
 .chapter4_playlist_background1 {
@@ -189,7 +189,7 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background: url(../images/backgrounds/chapter4-playlist-hero-background.jpg);
+  background: url(/images/backgrounds/chapter4-playlist-hero-background.jpg);
 }
   
   

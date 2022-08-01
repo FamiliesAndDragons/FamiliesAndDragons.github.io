@@ -8,8 +8,8 @@
 
 @font-face {
     font-family: 'alien_hieroglyph';
-    src: url('../fonts/alien_hieroglyph-webfont.woff2') format('woff2'),
-         url('../fonts/alien_hieroglyph-webfont.woff') format('woff');
+    src: url('/fonts/alien_hieroglyph-webfont.woff2') format('woff2'),
+         url('/fonts/alien_hieroglyph-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -20,8 +20,8 @@
 
 @font-face {
     font-family: 'angerthas';
-    src: url('../fonts/angerthas-vmwa-webfont.woff2') format('woff2'),
-         url('../fonts/angerthas-vmwa-webfont.woff') format('woff');
+    src: url('/fonts/angerthas-vmwa-webfont.woff2') format('woff2'),
+         url('/fonts/angerthas-vmwa-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -32,8 +32,8 @@
 
 @font-face {
     font-family: 'beth-luis-fearn';
-    src: url('../fonts/blf-webfont.woff2') format('woff2'),
-         url('../fonts/blf-webfont.woff') format('woff');
+    src: url('/fonts/blf-webfont.woff2') format('woff2'),
+         url('/fonts/blf-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -44,8 +44,8 @@
 
 @font-face {
     font-family: 'dovahkiin';
-    src: url('../fonts/dovahkiin-webfont.woff2') format('woff2'),
-         url('../fonts/dovahkiin-webfont.woff') format('woff');
+    src: url('/fonts/dovahkiin-webfont.woff2') format('woff2'),
+         url('/fonts/dovahkiin-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -56,8 +56,8 @@
 
 @font-face {
     font-family: 'edronheem';
-    src: url('../fonts/edronheemscriptregular-zo20-webfont.woff2') format('woff2'),
-         url('../fonts/edronheemscriptregular-zo20-webfont.woff') format('woff');
+    src: url('/fonts/edronheemscriptregular-zo20-webfont.woff2') format('woff2'),
+         url('/fonts/edronheemscriptregular-zo20-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -68,8 +68,8 @@
 
 @font-face {
     font-family: 'elbisch';
-    src: url('../fonts/elbisch-webfont.woff2') format('woff2'),
-         url('../fonts/elbisch-webfont.woff') format('woff');
+    src: url('/fonts/elbisch-webfont.woff2') format('woff2'),
+         url('/fonts/elbisch-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -80,8 +80,8 @@
 
 @font-face {
     font-family: 'elvish';
-    src: url('../fonts/elvish-6ppo-webfont.woff2') format('woff2'),
-         url('../fonts/elvish-6ppo-webfont.woff') format('woff');
+    src: url('/fonts/elvish-6ppo-webfont.woff2') format('woff2'),
+         url('/fonts/elvish-6ppo-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -92,8 +92,8 @@
 
 @font-face {
     font-family: 'harpers';
-    src: url('../fonts/harpers-webfont.woff2') format('woff2'),
-         url('../fonts/harpers-webfont.woff') format('woff');
+    src: url('/fonts/harpers-webfont.woff2') format('woff2'),
+         url('/fonts/harpers-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -104,8 +104,8 @@
 
 @font-face {
     font-family: 'highschool_runes';
-    src: url('../fonts/highschool_runes_-webfont.woff2') format('woff2'),
-         url('../fonts/highschool_runes_-webfont.woff') format('woff');
+    src: url('/fonts/highschool_runes_-webfont.woff2') format('woff2'),
+         url('/fonts/highschool_runes_-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -116,8 +116,8 @@
 
 @font-face {
     font-family: 'hymmnos';
-    src: url('../fonts/ymmnos-webfont.woff2') format('woff2'),
-         url('../fonts/hymmnos-webfont.woff') format('woff');
+    src: url('/fonts/ymmnos-webfont.woff2') format('woff2'),
+         url('/fonts/hymmnos-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -128,8 +128,8 @@
 
 @font-face {
     font-family: 'kehdrai';
-    src: url('../fonts/kehdrai-n41g-webfont.woff2') format('woff2'),
-         url('../fonts/kehdrai-n41g-webfont.woff') format('woff');
+    src: url('/fonts/kehdrai-n41g-webfont.woff2') format('woff2'),
+         url('/fonts/kehdrai-n41g-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -140,8 +140,8 @@
 
 @font-face {
     font-family: 'khuzdulerebor';
-    src: url('../fonts/khuzdulerebor-rjno-webfont.woff2') format('woff2'),
-         url('../fonts/khuzdulerebor-rjno-webfont.woff') format('woff');
+    src: url('/fonts/khuzdulerebor-rjno-webfont.woff2') format('woff2'),
+         url('/fonts/khuzdulerebor-rjno-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -152,8 +152,8 @@
 
 @font-face {
     font-family: 'lr_talisman';
-    src: url('../fonts/lrtalism-webfont.woff2') format('woff2'),
-         url('../fonts/lrtalism-webfont.woff') format('woff');
+    src: url('/fonts/lrtalism-webfont.woff2') format('woff2'),
+         url('/fonts/lrtalism-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -164,8 +164,8 @@
 
 @font-face {
     font-family: 'mage_script';
-    src: url('../fonts/mage_script-webfont.woff2') format('woff2'),
-         url('../fonts/mage_script-webfont.woff') format('woff');
+    src: url('/fonts/mage_script-webfont.woff2') format('woff2'),
+         url('/fonts/mage_script-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -176,8 +176,8 @@
 
 @font-face {
     font-family: 'ninjargon';
-    src: url('../fonts/ninjargon-regular-webfont.woff2') format('woff2'),
-         url('../fonts/ninjargon-regular-webfont.woff') format('woff');
+    src: url('/fonts/ninjargon-regular-webfont.woff2') format('woff2'),
+         url('/fonts/ninjargon-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -188,8 +188,8 @@
 
 @font-face {
     font-family: 'olde_espruar';
-    src: url('../fonts/oldeespruar-agjl-webfont.woff2') format('woff2'),
-         url('../fonts/oldeespruar-agjl-webfont.woff') format('woff');
+    src: url('/fonts/oldeespruar-agjl-webfont.woff2') format('woff2'),
+         url('/fonts/oldeespruar-agjl-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -200,8 +200,8 @@
 
 @font-face {
     font-family: 'ophidian';
-    src: url('../fonts/ophidian-webfont.woff2') format('woff2'),
-         url('../fonts/ophidian-webfont.woff') format('woff');
+    src: url('/fonts/ophidian-webfont.woff2') format('woff2'),
+         url('/fonts/ophidian-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -212,8 +212,8 @@
 
 @font-face {
     font-family: 'pulsian';
-    src: url('../fonts/pulsian-webfont.woff2') format('woff2'),
-         url('../fonts/pulsian-webfont.woff') format('woff');
+    src: url('/fonts/pulsian-webfont.woff2') format('woff2'),
+         url('/fonts/pulsian-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -224,8 +224,8 @@
 
 @font-face {
     font-family: 'sigali';
-    src: url('../fonts/sigali-script-webfont.woff2') format('woff2'),
-         url('../fonts/sigali-script-webfont.woff') format('woff');
+    src: url('/fonts/sigali-script-webfont.woff2') format('woff2'),
+         url('/fonts/sigali-script-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -245,8 +245,8 @@
 
 @font-face {
     font-family: 'sith_af';
-    src: url('../fonts/sithaf-webfont.woff2') format('woff2'),
-         url('../fonts/sithaf-webfont.woff') format('woff');
+    src: url('/fonts/sithaf-webfont.woff2') format('woff2'),
+         url('/fonts/sithaf-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -257,8 +257,8 @@
 
 @font-face {
     font-family: 'cybertronianfinal';
-    src: url('../fonts/cybertronianfinal-regular-webfont.woff2') format('woff2'),
-         url('../fonts/cybertronianfinal-regular-webfont.woff') format('woff');
+    src: url('/fonts/cybertronianfinal-regular-webfont.woff2') format('woff2'),
+         url('/fonts/cybertronianfinal-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -267,8 +267,8 @@
 
 @font-face {
     font-family: 'kitisakkullian';
-    src: url('../fonts/kitisakkullian-webfont.woff2') format('woff2'),
-         url('../fonts/kitisakkullian-webfont.woff') format('woff');
+    src: url('/fonts/kitisakkullian-webfont.woff2') format('woff2'),
+         url('/fonts/kitisakkullian-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -281,8 +281,8 @@
 
 @font-face {
     font-family: 'green_natureregular';
-    src: url('../fonts/green_nature-webfont.woff2') format('woff2'),
-         url('../fonts/green_nature-webfont.woff') format('woff');
+    src: url('/fonts/green_nature-webfont.woff2') format('woff2'),
+         url('/fonts/green_nature-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -425,8 +425,8 @@
 
 @font-face {
     font-family: 'segoe-print';
-    src: url('../fonts/segoepr.woff2') format('woff2'),
-         url('../fonts/segoepr.woff') format('woff');
+    src: url('/fonts/segoepr.woff2') format('woff2'),
+         url('/fonts/segoepr.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 

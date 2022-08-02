@@ -1,4 +1,4 @@
-const sheetId = '1hwMFrihm0DA6mR1Kbb3wg8IRkfE5G4mI0iO7BBg1Qqo';
+const sheetId = '1cr2nyIvArBD4Rmwolt6l8ALqaBAnEOJHSq-0sjCgA80';
 const base = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?`;
 const sheetName = 'agw-towns';
 const query = encodeURIComponent('Select *')

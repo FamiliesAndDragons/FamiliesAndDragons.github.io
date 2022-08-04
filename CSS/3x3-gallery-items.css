@@ -52,6 +52,45 @@
   margin-top: 50px;
 }
 .portfolio-tab ul li {
+  color: #fff;
+  background: rgba(0, 0, 0, 0.5);
+  display: inline;
+  font-weight: 500;
+  text-transform: uppercase;
+  padding: 12px 16px;
+  border: 2px solid white;
+  margin: 0 5px;
+  cursor: pointer;
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+  -webkit-tap-highlight-color: transparent;
+}
+
+
+
+@media (max-width: 575.98px) {
+  .portfolio-tab ul li {
+    display: block;
+    margin: 10px auto;
+    max-width: 200px;
+  }
+}
+.portfolio-tab ul li:hover {
+  color: white;
+	background-color: #2E2F31;
+  border: 2px solid white;
+}
+.portfolio-tab ul .active {
+  color: white;
+	background-color: #686868;
+  border: 2px solid white;
+}
+
+
+
+/* .portfolio-tab ul li {
   color: #000;
   background: transparent;
   display: inline;
@@ -81,7 +120,14 @@
 .portfolio-tab ul .active {
   background: #e30b5d;
   color: #fff
-}
+} */
+
+
+
+
+
+
+
 .clearfix:after {
   display: table;
   content: " ";

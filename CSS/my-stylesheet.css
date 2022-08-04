@@ -59,12 +59,12 @@ span.coming_soon {
   font-style: italic;
 }
 
-a.better-link {
+.better-link {
   text-decoration: underline;
   font-weight: bold;
 }
 
-a.better-link:hover {
+.better-link:hover {
   color: #ce7cf4;
 }
 

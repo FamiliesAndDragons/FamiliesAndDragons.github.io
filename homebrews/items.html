@@ -1,0 +1,622 @@
+<!-- ------------------ -->
+<!-- HEAD & METADATA -->
+<!-- ------------------ -->
+
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+
+  <meta charset="UTF-8">
+
+
+  <!-- Primary Meta Tags -->
+  <title>Families & Dragons | Template_Page</title>
+  <meta name="title" content="Families & Dragons | Template_Page">
+  <meta name="description" content="Template_Page">
+  <meta name="author" content="CantFindGeorge">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://familiesanddragons.github.io/Template_Page.html">
+  <meta property="og:title" content="Families & Dragons | Template_Page">
+  <meta property="og:description" content="Template_Page">
+  <meta property="og:image" content="https://raw.githubusercontent.com/FamiliesAndDragons/FamiliesAndDragons.github.io/main/images/backgrounds/Template_Page-hero-background.jpg">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://familiesanddragons.github.io/Template_Page.html">
+  <meta property="twitter:title" content="Families & Dragons | Template_Page">
+  <meta property="twitter:description" content="Template_Page">
+  <meta property="twitter:image" content="https://raw.githubusercontent.com/FamiliesAndDragons/FamiliesAndDragons.github.io/main/images/backgrounds/Template_Page-background.jpg">
+
+
+  
+
+  <!-- CSS  -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="/images/d-and-d-brands.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/CSS/my-stylesheet.css">
+  <link rel="stylesheet" href="/CSS/default-table.css">
+  <!-- <link rel="stylesheet" href="/CSS/searchable-table.css"> -->
+  <!-- <link rel="stylesheet" href="/CSS/languages-table.css"> -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+  <link rel="stylesheet" href="/CSS/font-faces-stylesheet.css">
+  <link rel="stylesheet" href="/CSS/hero-banners.css">
+  <link rel="stylesheet" href="/CSS/navigation-bar.css">
+  <link rel="stylesheet" href="/CSS/timeline.css">
+
+
+</head>
+
+  <!-- JavaScript -->
+  <!-- <script src="/js/searchable_tables.js"></script> -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mixitup/2.1.11/jquery.mixitup.min.js"></script>
+  <script>
+    $(function () {
+	var filterList = {
+		init: function () {
+			// MixItUp plugin
+			// http://mixitup.io
+			$('.portfolio-grid').mixItUp({
+				selectors: {
+  			  target: '.portfolio',
+  			  filter: '.filter'	
+  		  },
+  		  load: {
+    		  filter: 'all' // show app tab on first load
+    		}     
+			});								
+		}
+	};
+	// Run the show!
+	filterList.init();
+});	
+  </script>
+
+<style>body {
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+  font-size: 2rem;
+}
+h1, h2 {
+  color: white;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+h4 {
+  color: white;
+  text-transform: capitalize;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+@media (max-width: 575.98px) {
+
+  h4 {
+    font-size: 20px;
+  }
+  span,
+  p,
+  li,
+  a {
+    font-size: 14px;
+  }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+  
+  h4 {
+    font-size: 20px;
+  }
+  span,
+  p,
+  li,
+  a {
+    font-size: 14px;
+  }
+}
+.container {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 576px) {
+  .container {
+      max-width: 540px;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+      max-width: 720px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+      max-width: 960px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+      max-width: 1140px;
+  }
+}
+.template-btn {
+  color: white;
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 12px 20px;
+  display: inline-block;
+  background: transparent;
+  cursor: pointer;
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+}
+.template-btn:hover {
+  color: white;
+  background: #f28500;
+}
+.portfolio-section {
+  padding-top: 30px;
+  transition: 1.3s;
+  box-sizing: border-box;
+  height: auto;
+}
+
+.portfolio-tab ul {
+  text-align: center;
+  margin-top: 50px;
+}
+.portfolio-tab ul li {
+  color: #000;
+  background: transparent;
+  display: inline;
+  font-weight: 500;
+  text-transform: uppercase;
+  padding: 12px 16px;
+  border: 2px solid #e30b5d;
+  margin: 0 5px;
+  cursor: pointer;
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -o-transition: 0.2s;
+  transition: 0.2s;
+  -webkit-tap-highlight-color: transparent;
+}
+@media (max-width: 575.98px) {
+  .portfolio-tab ul li {
+    display: block;
+    margin: 10px auto;
+    max-width: 200px;
+  }
+}
+.portfolio-tab ul li:hover {
+  background: #e30b5d;
+  color: #fff
+}
+.portfolio-tab ul .active {
+  background: #e30b5d;
+  color: #fff
+}
+.clearfix:after {
+  display: table;
+  content: " ";
+  clear: both;
+}
+.portfolio-grid {
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 300px;
+}
+@media (max-width: 768px) {
+  .portfolio-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+@media only screen and (min-width: 768.1px) and (max-width: 991px) {
+  .portfolio-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }		
+  }
+.portfolio-grid .portfolio {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	display:none;
+	overflow:hidden;
+}
+.portfolio-wrapper {
+  overflow:hidden;
+  position: relative !important;
+  cursor:pointer;
+}
+.portfolio-bg {
+  width: 100%;
+  height: 300px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  transition: 1s;
+  transform: scale(1)
+}
+.portfolio:hover .portfolio-bg{
+  transform: scale(1.2)
+}
+.first .portfolio-bg{
+  background-image: url('https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?cs=srgb&dl=accounts-applications-apps-267350.jpg&fm=jpg');
+  
+}
+.second .portfolio-bg{
+  background-image: url('https://images.pexels.com/photos/1053687/pexels-photo-1053687.jpeg?cs=srgb&dl=art-art-materials-artwork-1053687.jpg&fm=jpg');
+}
+.third .portfolio-bg{
+  background-image: url('https://images.pexels.com/photos/6224/hands-people-woman-working.jpg?cs=srgb&dl=brainstorming-campaign-collaborate-6224.jpg&fm=jpg');
+  
+}
+.portfolio .label {
+  position: absolute;
+  width: 100%;
+  height:100%;
+  bottom: 0;
+  transition: 0.5s;
+  opacity: 0;
+  visibility: hidden
+}
+
+.portfolio .label-bg {
+  background: #232323;
+  opacity: 0.7;
+  width: 100%;
+  height:100%;
+  position: absolute;
+  top:0;
+  left:0;
+  transition: 1px;
+}
+.portfolio .label-text {
+  color:#fff;
+  position: relative;
+  z-index:500;
+  padding:50px 20px;
+}
+.portfolio:hover .label {
+  opacity: 1;
+  visibility: visible;
+}
+.portfolio .text-category {
+  display:block;
+}
+.portfolio .template-btn {
+  background: #e30b5d;
+  border: 1px solid #e30b5d;
+  text-decoration: none;
+  margin-top: 20px;
+  font-weight: 500
+}
+</style>
+
+
+
+
+
+
+<!-- ------------------ -->
+<!-- NAVIGATION BAR -->
+<!-- ------------------ -->
+
+<nav class="navbar navbar-inverse navbar-static-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+        data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/index.html" id="top-of-page"><span class="fa-brands fa-d-and-d" aria-hidden="true"></span> Families & Dragons</a>
+    </div>
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+
+
+
+
+
+
+
+
+      <!--     NAV BAR STARTS            -->
+      <ul class="nav navbar-nav navbar-right">
+
+
+
+
+
+        <!--     ACTIVE DROP DOWN     -->
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle activepage" data-toggle="dropdown" role="button" aria-haspopup="true"
+            aria-expanded="false">Drop Down<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="/Template_Page.html">Item 1</a></li>
+            <li><a href="/Template_Page.html">Item 2</a></li>
+            <li><a href="/Template_Page.html">Item 3</a></li>
+            <li><a href="/Template_Page.html">Item 4</a></li>
+            <li><a href="/Template_Page.html">Item 5</a></li>
+          </ul>
+        </li>
+
+
+
+        <!--     HOMEBREW             -->
+        <li><a href="/homebrews.html">Homebrews</a></li>
+
+
+        <!--      MY WORLD     -->
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+            aria-expanded="false">My World<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="/timeline.html">Timeline</a></li>
+            <!-- <li><a href="/pantheons.html">Pantheons</a></li> -->
+            <li><a href="https://docs.google.com/spreadsheets/d/1TBKE8Z-UXOK4Cxc7cuYagU-76oIIZsYfCVVkqo8UukI/htmlview#gid=0">Character Database</a></li>
+          </ul>
+        </li>
+
+
+
+      <!--      INFO     -->
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+          aria-expanded="false">Info<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">About<br><span class="coming_soon">coming soon!</span></a></li>
+          <li><a href="#">Credits<br><span class="coming_soon">coming soon!</span></a></li>
+          
+
+
+        </ul>
+      </li>
+
+
+
+
+
+
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+
+<!-- ------------------ -->
+<!--    HERO BANNER     -->
+<!-- ------------------ -->
+
+<div class="jumbotron Template_Page_background1">
+  <div class="container">
+    <h1 class="headline">Template_Page</h1>
+    <h4><br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam et mollitia, temporibus est, minima optio fugiat molestiae neque ea repudiandae nemo, reprehenderit eveniet dolorem. Dicta dignissimos error voluptate earum sit?
+      <br><br>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet quasi libero minima unde magni vitae maxime, repellat fugit ad cum enim facilis aliquid exercitationem eos eveniet at culpa? Molestiae, veritatis.<br><br>
+    </h4>
+    <div class="transparentbox">
+
+      <h3 style="margin:auto;"><u>Template_Page TRANPARENT MENU</u></h3>
+      <br>
+      <h4 style="margin:auto;">
+        &raquo; <a href="https://docs.google.com/document/d/1hbBL0H4JOo8rN6wbE1MGicqpyD5NdN5m0FRz28i1jRo/edit">Timeline Google Doc</a><br><br>
+        &raquo; Item 2<br><br>
+        &raquo; Item 3<br><br>
+        &raquo; Item 4<br><br>
+
+        <!-- &raquo; <span style="background-color: #292929;" class="underline">BLACK</span> &rarr; A player character dies or a total party wipe<br><br> -->
+      <h4>
+
+
+
+    </div>
+    <br><br><br><br>
+    <p>
+      <a class="btn btn-primary btn-lg" href="/Template_Page.html" role="button">&laquo; Back to Template_Page</a>
+    </p>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<!-- ------------------ -->
+<!-- BODY START -->
+<!-- ------------------ -->
+
+
+
+<div style="padding-top:15px;"> </div>
+
+
+<body>
+
+
+<div class="container">
+
+
+
+
+
+
+<!-- ------------------ -->
+<!-- Header Box -->
+<!-- ------------------ -->
+
+  <div class="page-header">
+    <h2 style="text-align: center;">Template_Page Block</h2>
+    <br>
+    <div class="header_box">
+      <p>
+        &raquo; Item 1<br>
+        &raquo; Item 2<br>
+        &raquo; Item 3<br>
+        &raquo; Item 4<br>
+        &raquo; Item 5<br>
+        &raquo; Item 6<br>
+      </p>
+      <small class="text-muted"><i>* Template_Page disclaimer text goes here.</i></small>
+    </div>
+  </div>
+
+
+  
+  <div style="padding-top:30px;"></div>
+<!-- Work Space Start -->
+
+
+
+<section class="portfolio-section">
+<!--         <h2 class="title">Portfolio</h2> -->
+    <span class="hr-role"></span>
+    <div class="portfolio-tab">
+      <ul id="filters" class="clearfix">
+          <li class="filter active" data-filter=".snippet, .design, .full-project">all</li>
+          <li class="filter" data-filter=".snippet">Snippets</li>
+          <li class="filter" data-filter=".design">Design</li>
+          <li class="filter" data-filter=".full-project">Full Project</li>
+      </ul>
+    </div>
+    <div class="portfolio-grid">
+      <div class="portfolio snippet" data-cat="snippet">
+        <div class="portfolio-wrapper first">
+          <div class="portfolio-bg"></div>
+          <div class="label">
+            <div class="label-text">
+              <h4>Project Name</h4>
+              <span class="text-category">Snippet</span>
+              <a href="#" class="template-btn" target="_blank">View</a>
+            </div>
+            <div class="label-bg"> </div>
+          </div>
+        </div>
+      </div>
+      <div class="portfolio design" data-cat="design">
+        <div class="portfolio-wrapper second">
+          <div class="portfolio-bg"></div>
+          <div class="label">
+            <div class="label-text">
+              <h4>Project Name</h4>
+              <span class="text-category">Design</span>
+              <a href="#" class="template-btn" target="_blank">View</a>
+            </div>
+            <div class="label-bg"> </div>
+          </div>
+        </div>
+      </div>
+      <div class="portfolio full-project" data-cat="full-project">
+        <div class="portfolio-wrapper third">
+          <div class="portfolio-bg"></div>
+          <div class="label">
+            <div class="label-text">
+              <h4>Project Name</h4>
+              <span class="text-category">Full Project</span>
+              <a href="#" class="template-btn" target="_blank">View</a>
+            </div>
+            <div class="label-bg"> </div>
+          </div>
+        </div>
+      </div>
+      <div class="portfolio design" data-cat="design">
+        <div class="portfolio-wrapper second">
+          <div class="portfolio-bg"></div>
+          <div class="label">
+            <div class="label-text">
+              <h4>Project Name</h4>
+              <span class="text-category">Design</span>
+              <a href="#" class="template-btn" target="_blank">View</a>
+            </div>
+            <div class="label-bg"> </div>
+          </div>
+        </div>
+      </div>
+      <div class="portfolio full-project" data-cat="full-project">
+        <div class="portfolio-wrapper third">
+          <div class="portfolio-bg"></div>
+          <div class="label">
+            <div class="label-text">
+              <h4>Project Name</h4>
+              <span class="text-category">Full Project</span>
+              <a href="#" class="template-btn" target="_blank">View</a>
+            </div>
+            <div class="label-bg"> </div>
+          </div>
+        </div>
+      </div>
+      <div class="portfolio snippet" data-cat="snippet">
+        <div class="portfolio-wrapper first">
+          <div class="portfolio-bg"></div>
+          <div class="label">
+            <div class="label-text">
+              <h4>Project Name</h4>
+              <span class="text-category">Snippet</span>
+              <a href="#" class="template-btn" target="_blank">View</a>
+            </div>
+            <div class="label-bg"> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+<!-- Work Space End -->
+
+
+
+  <p style="text-align:center; padding-top: 15px;"><a class="btn btn-primary btn-lg" href="#top-of-page" role="button">Back to Top &uarr;</a></p>
+
+
+
+</div>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+<div style="padding-top:15px;"></div>
+
+
+
+
+
+
+
+</html>

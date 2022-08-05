@@ -27,3 +27,12 @@ CDN by https://gitcdn.link/#dev
 }
 
 
+.better-link {
+  color: #ce7cf4;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.better-link:hover {
+  color: #7c7ef4;
+}

@@ -55,11 +55,11 @@
   color: #fff;
   background: rgba(0, 0, 0, 0.5);
   display: inline;
-  font-weight: 500;
+  font-weight: bold;
   text-transform: uppercase;
   font-family: 'myFirstFont';
   padding: 12px 16px;
-  border: 2px solid #1d1d1f;
+  border: 2px solid #fff;
   margin: 0 5px;
   cursor: pointer;
   -webkit-transition: 0.2s;
@@ -87,6 +87,7 @@
   color: white;
 	background: #6e1f11;
   font-family: 'myFirstFont';
+  text-decoration: underline;
 }
 
 
@@ -256,5 +257,5 @@
   font-family: 'myFirstFont';
   text-decoration: none;
   margin-top: 20px;
-  font-weight: 500
+  font-weight: bold;
 }

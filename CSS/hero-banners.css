@@ -93,6 +93,14 @@
   background: url(/images/backgrounds/homebrews-hero-background.jpg);
 }
 
+.items_background1 {
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background: url(/images/backgrounds/items-hero-background.jpg);
+}
+
 .languages_background1 {
   box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.7);
   background-size: cover;

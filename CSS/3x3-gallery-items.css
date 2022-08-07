@@ -57,6 +57,7 @@
   display: inline;
   font-weight: 500;
   text-transform: uppercase;
+  font-family: 'myFirstFont';
   padding: 12px 16px;
   border: 2px solid #1d1d1f;
   margin: 0 5px;

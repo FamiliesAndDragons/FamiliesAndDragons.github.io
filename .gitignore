@@ -10,6 +10,7 @@
 /images/unused/**
 /images/playlists/originals/**
 /images/social-icons/**
+old/**
 
 #######################
 # Ignore target files #

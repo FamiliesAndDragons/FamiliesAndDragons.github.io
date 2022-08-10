@@ -5,7 +5,7 @@
 #  Ignore the ______ Folder and content  #
 ##########################################
 
-/images/licenses/**
+
 /images/originals/**
 /images/unused/**
 /images/playlists/originals/**
@@ -14,7 +14,6 @@
 # Ignore target files #
 #######################
 
-old/**
 **.psd
 
 #####################

@@ -234,9 +234,9 @@
 
 @font-face {
     font-family: 'green_nature';
-    src: url('/fonts/green_nature-webfont.woff2') format('woff2'),
-         url('/fonts/GREEN_NATURE.ttf') format('truetype'),
-         url('/fonts/green_nature-webfont.woff') format('woff');
+    src: url('/fonts/GREEN_NATURE.ttf') format('truetype');
+         /* url('/fonts/green_nature-webfont.woff2') format('woff2'),
+         url('/fonts/green_nature-webfont.woff') format('woff'); */
     
     font-weight: 400;
 

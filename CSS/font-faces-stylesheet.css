@@ -16,7 +16,7 @@
     src: url('/fonts/pulsian-webfont.woff2') format('woff2'),
          url('/fonts/pulsian.ttf') format('truetype'),
          url('/fonts/pulsian-webfont.woff') format('woff');
-    
+    font-style: normal;
     font-weight: 400;
 
 }
@@ -35,7 +35,7 @@
     src: url('/fonts/elbisch-webfont.woff2') format('woff2'),
          url('/fonts/Elbisch.otf') format('opentype'),
          url('/fonts/elbisch-webfont.woff') format('woff');
-    
+    font-style: normal;    
     font-weight: 400;
 
 }
@@ -48,6 +48,7 @@
  ------------------  */
 .common-text {
     font-family: georgia;
+    font-style: normal;
 }
 
 
@@ -65,7 +66,7 @@
     src: url('/fonts/dovahkiin-webfont.woff2') format('woff2'),
          url('/fonts/Dovahkiin.otf') format('opentype'),
          url('/fonts/dovahkiin-webfont.woff') format('woff');
-    
+    font-style: normal;    
     font-weight: 400;
 
 }
@@ -85,7 +86,7 @@
     src: url('/fonts/ophidian-webfont.woff2') format('woff2'),
          url('/fonts/Ophidian.otf') format('opentype'),
          url('/fonts/ophidian-webfont.woff') format('woff');
-    
+    font-style: normal;    
     font-weight: 400;
 
 }
@@ -105,7 +106,7 @@
     src: url('/fonts/hymmnos-webfont.woff2') format('woff2'),
          url('/fonts/hymmnos') format('woff2'),
          url('/fonts/hymmnos-webfont.woff') format('woff');
-    
+    font-style: normal;    
     font-weight: 400;
 
 }
@@ -125,7 +126,7 @@
     src: url('/fonts/ninjargon-regular-webfont.woff2') format('woff2'),
          url('/fonts/Ninjargon-Regular.otf') format('opentype'),
          url('/fonts/ninjargon-regular-webfont.woff') format('woff');
-    
+    font-style: normal;    
     font-weight: 400;
 
 }
@@ -382,7 +383,7 @@
     src: url('/fonts/edronheemscriptregular-zo20-webfont.woff2') format('woff2'),
          url('/fonts/EdronheemScriptRegular-zo20.ttf') format('truetype'),
          url('/fonts/edronheemscriptregular-zo20-webfont.woff') format('woff');
-    
+    font-style: normal;    
     font-weight: 400;
 
 }

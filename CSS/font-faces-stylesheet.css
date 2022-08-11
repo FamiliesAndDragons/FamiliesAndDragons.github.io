@@ -18,7 +18,7 @@
     src: url('/fonts/pulsian-webfont.woff2') format('woff2'),
          url('/fonts/pulsian.ttf') format('truetype'),
          url('/fonts/pulsian-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -37,7 +37,7 @@
     src: url('/fonts/elbisch-webfont.woff2') format('woff2'),
          url('/fonts/Elbisch.otf') format('opentype'),
          url('/fonts/elbisch-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -65,7 +65,7 @@
     src: url('/fonts/dovahkiin-webfont.woff2') format('woff2'),
          url('/fonts/Dovahkiin.otf') format('opentype'),
          url('/fonts/dovahkiin-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -84,7 +84,7 @@
     src: url('/fonts/ophidian-webfont.woff2') format('woff2'),
          url('/fonts/Ophidian.otf') format('opentype'),
          url('/fonts/ophidian-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -103,7 +103,7 @@
     src: url('/fonts/hymmnos-webfont.woff2') format('woff2'),
          url('/fonts/hymmnos') format('woff2'),
          url('/fonts/hymmnos-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -122,7 +122,7 @@
     src: url('/fonts/ninjargon-regular-webfont.woff2') format('woff2'),
          url('/fonts/Ninjargon-Regular.otf') format('opentype'),
          url('/fonts/ninjargon-regular-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -141,7 +141,7 @@
     src: url('/fonts/elvish-6ppo-webfont.woff2') format('woff2'),
          url('/fonts/Elvish-6PPo.ttf') format('truetype'),
          url('/fonts/elvish-6ppo-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -160,7 +160,7 @@
     src: url('/fonts/kehdrai-n41g-webfont.woff2') format('woff2'),
          url('/fonts/Kehdrai-n41g.ttf') format('truetype'),
          url('/fonts/kehdrai-n41g-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -179,7 +179,7 @@
     src: url('/fonts/lrtalism-webfont.woff2') format('woff2'),
          url('/fonts/LRTALISM.ttf') format('truetype'),
          url('/fonts/lrtalism-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -199,7 +199,7 @@
     src: url('/fonts/highschool_runes_-webfont.woff2') format('woff2'),
          url('/fonts/Highschool_Runes_.ttf') format('truetype'),
          url('/fonts/highschool_runes_-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -218,7 +218,7 @@
     src: url('/fonts/angerthas-vmwa-webfont.woff2') format('woff2'),
          url('/fonts/Angerthas-vmwA.ttf') format('truetype'),
          url('/fonts/angerthas-vmwa-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -237,7 +237,7 @@
     src: url('/fonts/green_nature-webfont.woff2') format('woff2'),
          url('/fonts/GREEN_NATURE.ttf') format('truetype'),
          url('/fonts/green_nature-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -256,7 +256,7 @@
     src: url('/fonts/mage_script-webfont.woff2') format('woff2'),
          url('/fonts/Mage_Script.otf') format('opentype'),
          url('/fonts/mage_script-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -275,7 +275,7 @@
     src: url('/fonts/cybertronianfinal-regular-webfont.woff2') format('woff2'),
          url('/fonts/Cybertronianfinal-Regular.ttf') format('truetype'),
          url('/fonts/cybertronianfinal-regular-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -294,7 +294,7 @@
     src: url('/fonts/harpers-webfont.woff2') format('woff2'),
          url('/fonts/Harpers.otf') format('opentype'),
          url('/fonts/harpers-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -313,7 +313,7 @@
     src: url('/fonts/kitisakkullian-webfont.woff2') format('woff2'),
          url('/fonts/Kitisakkullian.otf') format('opentype'),
          url('/fonts/kitisakkullian-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -332,7 +332,7 @@
     src: url('/fonts/khuzdulerebor-rjno-webfont.woff2') format('woff2'),
          url('/fonts/Khuzdulerebor-Rjno.ttf') format('truetype'),
          url('/fonts/khuzdulerebor-rjno-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -351,7 +351,7 @@
     src: url('/fonts/alien_hieroglyph-webfont.woff2') format('woff2'),
          url('/fonts/Alien_Hieroglyph.ttf') format('truetype'),
          url('/fonts/alien_hieroglyph-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -370,7 +370,7 @@
     src: url('/fonts/edronheemscriptregular-zo20-webfont.woff2') format('woff2'),
          url('/fonts/EdronheemScriptRegular-zo20.ttf') format('truetype'),
          url('/fonts/edronheemscriptregular-zo20-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -389,7 +389,7 @@
     src: url('/fonts/blf-webfont.woff2') format('woff2'),
          url('/fonts/BLF.TTF') format('truetype'),
          url('/fonts/blf-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -408,7 +408,7 @@
     src: url('/fonts/sithaf-webfont.woff2') format('woff2'),
          url('/fonts/SithAF.otf') format('opentype'),
          url('/fonts/sithaf-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -427,7 +427,7 @@
     src: url('/fonts/sigali-script-webfont.woff2') format('woff2'),
          url('/fonts/Sigali-Script.ttf') format('truetype'),
          url('/fonts/sigali-script-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -446,7 +446,7 @@
     src: url('/fonts/oldeespruar-agjl-webfont.woff2') format('woff2'),
          url('/fonts/OldeEspruar-AgJL.ttf') format('truetype'),
          url('/fonts/oldeespruar-agjl-webfont.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }
@@ -462,7 +462,7 @@
     font-family: 'segoe-print';
     src: url('/fonts/segoepr.woff2') format('woff2'),
          url('/fonts/segoepr.woff') format('woff');
-    font-weight: normal;
+    
     font-style: normal;
 
 }

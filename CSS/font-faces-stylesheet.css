@@ -8,11 +8,9 @@
 /*  ------------------ 
     Abyssal
  ------------------  */
-
 .abyssal {
     font-family: 'pulsian';
 }
-
 @font-face {
     font-family: 'pulsian';
     src: url('/fonts/pulsian-webfont.woff2') format('woff2'),
@@ -24,14 +22,14 @@
 }
 
 
+
+
 /*  ------------------ 
     Celestial
  ------------------  */
-
 .celestial {
     font-family: 'elbisch';
 }
-
 @font-face {
     font-family: 'elbisch';
     src: url('/fonts/elbisch-webfont.woff2') format('woff2'),
@@ -43,19 +41,21 @@
 }
 
 
+
+
 /*  ------------------ 
     Common
  ------------------  */
-
 .common-text {
     font-family: georgia;
 }
 
 
+
+
 /*  ------------------ 
     Draconic
  ------------------  */
-
 .draconic {
     font-family: 'dovahkiin';
 }
@@ -71,10 +71,11 @@
 }
 
 
+
+
 /*  ------------------ 
     Druidic
  ------------------  */
-
 .druidic {
     font-family: 'ophidian';
 }
@@ -90,10 +91,11 @@
 }
 
 
+
+
 /*  ------------------ 
     Dunamis
  ------------------  */
-
 .dunamis {
     font-family: 'hymmnos';
 }
@@ -109,10 +111,11 @@
 }
 
 
+
+
 /*  ------------------ 
     Dwarvish
  ------------------  */
-
 .dwarvish {
     font-family: 'ninjargon';
 }
@@ -128,10 +131,11 @@
 }
 
 
+
+
 /*  ------------------ 
     Elvish
  ------------------  */
-
 .elvish {
     font-family: 'elvish';
 }
@@ -147,10 +151,11 @@
 }
 
 
+
+
 /*  ------------------ 
     Giant
  ------------------  */
-
 .giant_text {
     font-family: 'kehdrai';
 }
@@ -166,10 +171,11 @@
 }
 
 
+
+
 /*  ------------------ 
     Gith
  ------------------  */
-
 .gith {
     font-family: 'lr_talisman';
 }
@@ -185,10 +191,11 @@
 }
 
 
+
+
 /*  ------------------ 
     Gnomish
  ------------------  */
-
 .gnomish {
     font-family: 'highschool_runes';
 }
@@ -205,10 +212,11 @@
 }
 
 
+
+
 /*  ------------------ 
     Goblin
  ------------------  */
-
 .goblin {
     font-family: 'angerthas';
 }
@@ -224,10 +232,11 @@
 }
 
 
+
+
 /*  ------------------ 
     Halfling
  ------------------  */
-
 .halfling-text {
     font-family: 'green_nature';
 }
@@ -243,10 +252,11 @@
 }
 
 
+
+
 /*  ------------------ 
     Infernal
  ------------------  */
-
 .infernal {
     font-family: 'mage_script';
 }
@@ -262,10 +272,11 @@
 }
 
 
+
+
 /*  ------------------ 
     Kraul
  ------------------  */
-
 .kraul {
     font-family: 'cybertronianfinal';
 }
@@ -281,10 +292,11 @@
 }
 
 
+
+
 /*  ------------------ 
     Magi
  ------------------  */
-
 .magi {
     font-family: 'harpers';
 }
@@ -300,10 +312,11 @@
 }
 
 
+
+
 /*  ------------------ 
     Merfolk
  ------------------  */
-
 .merfolk {
     font-family: 'kitisakkullian';
 }
@@ -322,7 +335,6 @@
 /*  ------------------ 
     Orcish
  ------------------  */
-
 .orcish {
     font-family: 'khuzdulerebor';
 }
@@ -330,7 +342,7 @@
 @font-face {
     font-family: 'khuzdulerebor';
     src: url('/fonts/khuzdulerebor-rjno-webfont.woff2') format('woff2'),
-         url('/fonts/Khuzdulerebor-Rjno.ttf') format('truetype'),
+         url('/fonts/KhuzdulErebor_font_.ttf') format('truetype'),
          url('/fonts/khuzdulerebor-rjno-webfont.woff') format('woff');
     
     font-weight: 400;
@@ -338,10 +350,11 @@
 }
 
 
+
+
 /*  ------------------ 
     Primordial
  ------------------  */
-
 .primordial {
     font-family: 'alien_hieroglyph';
 }
@@ -360,7 +373,6 @@
 /*  ------------------ 
     Sylvan
  ------------------  */
-
 .sylvan {
     font-family: 'edronheem';  
 }
@@ -376,10 +388,11 @@
 }
 
 
+
+
 /*  ------------------ 
     Theives Cant
  ------------------  */
-
 .theives_cant {
     font-family: 'beth-luis-fearn';
 }
@@ -395,10 +408,11 @@
 }
 
 
+
+
 /*  ------------------ 
     Veldalken
  ------------------  */
-
 .vedalken {
     font-family: 'sith_af';
 }
@@ -414,10 +428,11 @@
 }
 
 
+
+
 /*  ------------------ 
     Undead
  ------------------  */
-
 .undead {
     font-family: 'sigali';
 }
@@ -433,10 +448,10 @@
 }
 
 
+
 /*  ------------------ 
     Undercommon
  ------------------  */
-
 .undercommon {
     font-family: 'olde_espruar';
 }
@@ -450,6 +465,8 @@
     font-weight: 400;
 
 }
+
+
 
 
 

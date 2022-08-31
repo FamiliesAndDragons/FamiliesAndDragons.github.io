@@ -1,0 +1,127 @@
+<div class="table_body_area">
+    <table class="table">
+
+
+      <thead>
+        <th class="regular">Release Date</th>
+        <th class="regular">Expansion Name</th>
+      </thead>
+      <tbody>
+
+
+
+
+
+        <tr>
+            <td data-label="Release Date">
+                9/15/22   
+            </td>
+            <td data-label="Expansion Name">
+                Campaign Pitch Template
+            </td>
+        </tr>
+
+        <tr>
+            <td data-label="Release Date">
+                11/15/22
+            </td>
+            <td data-label="Expansion Name">
+                Khuratt, The Magical Market   
+            </td>
+        </tr>
+
+        <tr>
+            <td data-label="Release Date">
+                1/15/23
+            </td>
+            <td data-label="Expansion Name">
+                100 Shades of Tiefling
+            </td>
+        </tr>
+
+        <tr>
+            <td data-label="Release Date">
+             3/15/23   
+            </td>
+            <td data-label="Expansion Name">
+                Godless Wars Campaign Updates
+            </td>
+        </tr>
+
+
+        <tr>
+            <td data-label="Release Date">
+                4/15/23   
+            </td>
+            <td data-label="Expansion Name">
+                Haverfoot Clan
+            </td>
+        </tr>
+
+        <tr>
+            <td data-label="Release Date">
+             7/15/23   
+            </td>
+            <td data-label="Expansion Name">
+                Obsidian Spire Campaign Updates
+            </td>
+        </tr>
+
+        <tr>
+            <td data-label="Release Date">
+             9/15/23   
+            </td>
+            <td data-label="Expansion Name">
+                Under the Tavern Campaign Updates
+            </td>
+        </tr>
+
+        <tr>
+            <td data-label="Release Date">
+                11/15/22
+            </td>
+            <td data-label="Expansion Name">
+                Saving Santa Claus One-Shot
+            </td>
+        </tr>
+    
+        <tr>
+            <td data-label="Release Date">
+                TBD
+            </td>
+            <td data-label="Expansion Name">
+             Plentiful Pantheons   
+            </td>
+        </tr>
+
+        <tr>
+            <td data-label="Release Date">
+                TBD
+            </td>
+            <td data-label="Expansion Name">
+                Revised Combat Actions
+            </td>
+        </tr>
+
+        <tr>
+            <td data-label="Release Date">
+                TBD
+            </td>
+            <td data-label="Expansion Name">
+             Undead Expansion (title pending)   
+            </td>
+        </tr>
+        
+
+
+
+
+
+
+
+        
+
+
+      </tbody>
+    </table>
+  </div>

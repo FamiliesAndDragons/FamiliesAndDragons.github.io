@@ -1,0 +1,212 @@
+<!-- Printable Background -->
+<img src='https://raw.githubusercontent.com/FamiliesAndDragons/FamiliesAndDragons.github.io/main/images/homebrews/character-introduction/character-introduction-cover-image.jpg' style='position:absolute; bottom:0px; left:0px; height:1100px'/>
+
+
+
+# Character Introductions Worksheet
+## About The Worksheet
+Character introductions are always a bit awkward for everyone. The players are nervous and want to impress each other. The DM just wants to leave the tavern and start the game. The whole situation is easily over-whelming for many of us.
+
+Getting this introduction phase out of the way quickly makes the transition to setting off on a quest more fluid. It will also help the characters incorporate their backstories and personal plot points into everyday roleplaying.
+
+
+
+
+### Directions
+
+
+#### Before The Session
+* The DM should print out this sheet and provide a copy for each player in the group.
+* Each player should fill out their own sheet answering all questions.
+* It's encouraged that players work together or with the DM to ensure their characters are setting-appropriate.
+
+
+
+#### During The Session
+Go around the table in a predefined order and have each player describe the following about their character:
+
+* Describe **three** notable traits of the character's physical appearance.
+* Explain **two** things about the character's vibe or presence.
+* Share **one** primary motive, secret, or desire of the character
+* Bonus Credit: Describe **one** unique aspect of how they view the world around them.
+
+
+
+:
+## Character Questions
+:
+### Physical Appearance
+__1.__ What color and style is their hair?<br>
+__2.__ What color are their eyes?<br>
+__3.__ How tall are they?<br>
+__4.__ Do they have any tattoos, piercings, body paint, scares, or noticeable features?<br>
+__5.__ What kind of clothes are they wearing?<br>
+__6.__ Are they wearing any crests, insignia, or other markings?<br>
+__7.__ Are they carrying anything on their belt or on their back?<br>
+
+\column
+
+
+
+
+
+
+
+
+:
+### Vibe or Presence
+__8.__ Do they have darting eyes or make direct eye contact when speaking?<br>
+__9.__ What kind of tone do they communicate with? (joyful, ominous, shy, etc.)<br>
+__10.__ Are they animated when talking? (facial expression, hand movement, etc.)<br>
+__11.__ On first impression, they come off as _______. But once you know them, they are _______.<br> 
+
+::
+### Background
+__12.__ They have a _______ relationship with family or friends.<br> 
+__13.__ Their parents are _______ and they have _______ siblings.<br>
+__14.__ They are from a _______ home.<br>
+__15.__ They love doing _______ in their spare time.<br>
+__16.__ Who taught them, or how did they learn their skills?<br>
+
+::
+### Motives, secrets, & desires
+__17.__ They started adventuring because _______.<br>
+__18.__ They (sometimes/regularly/always) stay up at night thinking about _______.<br>
+__19.__ They are hiding _______ and secretly (do/don't) want others to find out or help with it.<br>
+__20.__ They would sacrifice anything, except _______, to get  _______.<br>
+
+
+
+:
+###
+:
+##### You may also like...
+If you're starting a new campaign, one-shot, or mini-series, you can check out our [campaign pitch template](https://familiesanddragons.x10.mx/campaign-pitch/) to help get you started.
+
+
+##### Licenses & Credits
+
+* Character Introduction Worksheet by [Families & Dragons](https://familiesanddragons.x10.mx/)
+* Full Page Watercolor Stains by [/u/flamableconcrete](https://homebrewery.naturalcrit.com/share/SkKsdJmKf)
+* PHB Style Template by [Kaiburr_Kath-Hound](https://homebrewery.naturalcrit.com/share/1gJtTm4frFs0kb9fD9jGO5I4rLipDzLFpRq-hmiZmTQZz)
+
+
+##### Change Log
+
+* 9/28/22 Published
+* 9/28/22 Added links in Campaign Pitch Template
+
+
+
+This document contains unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are the property of Wizards of the Coast. ©Wizards of the Coast LLC.
+
+
+
+
+
+{{pageNumber,auto}}
+{{footnote [© Families & Dragons](https://familiesanddragons.x10.mx)}}
+
+\page
+
+
+<!-- Printable Background -->
+<img src='https://raw.githubusercontent.com/FamiliesAndDragons/FamiliesAndDragons.github.io/main/images/homebrews/Full-Page-White.jpg' style='position:absolute; bottom:0px; left:0px; height:1100px'/>
+
+
+{{wide
+### Character Name:
+:::
+}}
+
+
+
+### 1.
+
+:::
+### 2.
+
+:::
+### 3.
+ 
+:::
+### 4.
+
+:::
+### 5.
+
+:::
+### 6.
+
+:::
+### 7.
+
+:::
+### 8.
+
+:::
+### 9.
+
+:::
+### 10.
+
+:::
+### 11.
+::
+###
+
+
+\column
+
+
+### 12.
+
+:::
+### 13.
+::
+###
+
+:::
+### 14.
+ 
+
+:::
+### 15.
+
+:::
+### 16.
+::
+###
+
+
+:::
+### 17.
+
+
+
+:::
+### 18.
+::
+###
+
+:::
+### 19.
+::
+###
+
+:::
+### 20.
+::
+###
+
+
+
+
+
+{{pageNumber,auto}}
+{{footnote [© Families & Dragons](https://familiesanddragons.x10.mx)}}
+
+\page
+
+
+
